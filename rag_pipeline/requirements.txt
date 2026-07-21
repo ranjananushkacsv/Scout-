@@ -1,0 +1,7 @@
+# Core RAG stack — all free / open-source
+chromadb==0.5.23
+sentence-transformers==3.3.1
+pypdf==5.1.0
+pandas==2.2.3
+requests==2.32.3
+tqdm==4.67.1

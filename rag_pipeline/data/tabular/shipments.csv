@@ -1,0 +1,41 @@
+shipment_id,order_id,status,carrier,service_level,origin_warehouse,destination_city,ship_date,estimated_delivery,actual_delivery,delay_flag
+SHP-20001,ORD-50001,Out for Delivery,FastFreight Co,Freight (LTL),WH-East-03,"Newark, NJ",2026-07-06,2026-07-14,,
+SHP-20002,ORD-50002,Lost in Transit,RegionalCarrier X,Next-Day Air,WH-South-02,"Newark, NJ",2026-07-04,2026-07-05,,
+SHP-20003,ORD-50003,Delayed,QuickHaul,Standard Ground,WH-North-01,"Austin, TX",2026-07-06,2026-07-11,,EXT-DELAY
+SHP-20004,ORD-50004,Delayed,RegionalCarrier X,Expedited,WH-North-01,"Austin, TX",2026-07-10,2026-07-12,,INT-DELAY
+SHP-20005,ORD-50005,Processing,RegionalCarrier X,Standard Ground,WH-South-02,"Newark, NJ",2026-07-16,2026-07-21,,
+SHP-20006,ORD-50006,Processing,NatWide Logistics,Expedited,WH-West-04,"Sacramento, CA",2026-07-16,2026-07-18,,
+SHP-20007,ORD-50007,Lost in Transit,QuickHaul,Next-Day Air,WH-East-03,"Seattle, WA",2026-07-07,2026-07-08,,
+SHP-20008,ORD-50008,Lost in Transit,MetroExpress,Standard Ground,WH-South-02,"Austin, TX",2026-07-15,2026-07-20,,
+SHP-20009,ORD-50009,Delayed,FastFreight Co,Expedited,WH-North-01,"Chicago, IL",2026-07-01,2026-07-03,,EXT-DELAY
+SHP-20010,ORD-50010,Delivered,NatWide Logistics,Standard Ground,WH-North-01,"Sacramento, CA",2026-07-03,2026-07-08,2026-07-08,
+SHP-20011,ORD-50011,Delayed,RegionalCarrier X,Expedited,WH-West-04,"Sacramento, CA",2026-07-16,2026-07-18,,EXT-DELAY
+SHP-20012,ORD-50012,Out for Delivery,FastFreight Co,Expedited,WH-North-01,"Denver, CO",2026-07-14,2026-07-16,,
+SHP-20013,ORD-50013,Delayed,FastFreight Co,Freight (LTL),WH-North-01,"Chicago, IL",2026-07-14,2026-07-22,,INT-DELAY
+SHP-20014,ORD-50014,Out for Delivery,MetroExpress,Standard Ground,WH-South-02,"Sacramento, CA",2026-07-11,2026-07-16,,
+SHP-20015,ORD-50015,Lost in Transit,QuickHaul,Expedited,WH-South-02,"Atlanta, GA",2026-07-15,2026-07-17,,
+SHP-20016,ORD-50016,Out for Delivery,QuickHaul,Standard Ground,WH-North-01,"Chicago, IL",2026-07-08,2026-07-13,,
+SHP-20017,ORD-50017,Processing,FastFreight Co,Standard Ground,WH-South-02,"Newark, NJ",2026-07-18,2026-07-23,,
+SHP-20018,ORD-50018,Out for Delivery,MetroExpress,Freight (LTL),WH-West-04,"Chicago, IL",2026-07-16,2026-07-24,,
+SHP-20019,ORD-50019,Delivered,QuickHaul,Standard Ground,WH-East-03,"Seattle, WA",2026-07-13,2026-07-18,2026-07-18,
+SHP-20020,ORD-50020,Delayed,NatWide Logistics,Freight (LTL),WH-South-02,"Chicago, IL",2026-07-14,2026-07-22,,INT-DELAY
+SHP-20021,ORD-50021,Lost in Transit,NatWide Logistics,Standard Ground,WH-North-01,"Chicago, IL",2026-07-18,2026-07-23,,
+SHP-20022,ORD-50022,Lost in Transit,FastFreight Co,Expedited,WH-North-01,"Newark, NJ",2026-07-16,2026-07-18,,
+SHP-20023,ORD-50023,In Transit,QuickHaul,Expedited,WH-North-01,"Sacramento, CA",2026-07-03,2026-07-05,,
+SHP-20024,ORD-50024,Lost in Transit,QuickHaul,Standard Ground,WH-East-03,"Atlanta, GA",2026-07-02,2026-07-07,,
+SHP-20025,ORD-50025,Delivered,NatWide Logistics,Expedited,WH-West-04,"Newark, NJ",2026-07-11,2026-07-13,2026-07-13,
+SHP-20026,ORD-50026,Processing,NatWide Logistics,Freight (LTL),WH-North-01,"Chicago, IL",2026-07-10,2026-07-18,,
+SHP-20027,ORD-50027,Out for Delivery,FastFreight Co,Standard Ground,WH-South-02,"Atlanta, GA",2026-07-19,2026-07-24,,
+SHP-20028,ORD-50028,Delivered,MetroExpress,Standard Ground,WH-East-03,"Atlanta, GA",2026-07-12,2026-07-17,2026-07-17,
+SHP-20029,ORD-50029,Delivered,RegionalCarrier X,Next-Day Air,WH-North-01,"Atlanta, GA",2026-07-15,2026-07-16,2026-07-16,
+SHP-20030,ORD-50030,Processing,NatWide Logistics,Expedited,WH-North-01,"Austin, TX",2026-07-04,2026-07-06,,
+SHP-20031,ORD-50031,Processing,NatWide Logistics,Expedited,WH-East-03,"Sacramento, CA",2026-07-18,2026-07-20,,
+SHP-20032,ORD-50032,Processing,NatWide Logistics,Expedited,WH-West-04,"Atlanta, GA",2026-07-11,2026-07-13,,
+SHP-20033,ORD-50033,In Transit,NatWide Logistics,Freight (LTL),WH-North-01,"Chicago, IL",2026-07-03,2026-07-11,,
+SHP-20034,ORD-50034,Delayed,QuickHaul,Next-Day Air,WH-West-04,"Chicago, IL",2026-07-05,2026-07-06,,INT-DELAY
+SHP-20035,ORD-50035,In Transit,RegionalCarrier X,Expedited,WH-North-01,"Columbus, OH",2026-07-03,2026-07-05,,
+SHP-20036,ORD-50036,Lost in Transit,QuickHaul,Expedited,WH-South-02,"Chicago, IL",2026-07-18,2026-07-20,,
+SHP-20037,ORD-50037,Delayed,MetroExpress,Standard Ground,WH-South-02,"Austin, TX",2026-07-12,2026-07-17,,EXT-DELAY
+SHP-20038,ORD-50038,Delayed,MetroExpress,Freight (LTL),WH-South-02,"Newark, NJ",2026-07-18,2026-07-26,,EXT-DELAY
+SHP-20039,ORD-50039,Delivered,MetroExpress,Standard Ground,WH-East-03,"Denver, CO",2026-07-14,2026-07-19,2026-07-19,
+SHP-20040,ORD-50040,Processing,MetroExpress,Next-Day Air,WH-North-01,"Denver, CO",2026-07-08,2026-07-09,,

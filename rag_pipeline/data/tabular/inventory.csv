@@ -1,0 +1,26 @@
+sku_id,product_name,category,zone,quantity_on_hand,reorder_point,safety_stock,unit_of_measure,last_cycle_count_date,supplier_id
+SKU-1001,Corrugated Shipping Box - Medium,C,Zone 7,233,26,10,PALLET,2026-06-23,SUP-107
+SKU-1002,Pallet Wrap Roll,A,Zone 1,1513,46,18,PALLET,2026-06-08,SUP-117
+SKU-1003,Forklift Battery Pack,C,Zone 7,869,28,11,EA,2026-06-29,SUP-106
+SKU-1004,Steel Shelving Unit,C,Zone 9,1237,26,10,PALLET,2026-06-25,SUP-120
+SKU-1005,Barcode Scanner Handheld,C,Zone 7,864,76,30,CASE,2026-06-13,SUP-108
+SKU-1006,Warehouse Safety Vest,A,Zone 1,1434,128,51,CASE,2026-06-23,SUP-104
+SKU-1007,Pallet Jack Manual,B,Zone 5,214,43,17,CASE,2026-06-28,SUP-111
+SKU-1008,Cold Chain Insulated Box,C,Zone 7,546,31,12,PALLET,2026-06-17,SUP-117
+SKU-1009,Packing Tape Roll,B,Zone 6,166,161,64,CASE,2026-06-05,SUP-120
+SKU-1010,Industrial Label Printer,B,Zone 6,1187,69,27,PALLET,2026-06-29,SUP-101
+SKU-1011,Reusable Tote Bin - Large,A,Zone 1,1588,94,37,EA,2026-06-04,SUP-107
+SKU-1012,Dock Leveler Plate,B,Zone 4,574,136,54,PALLET,2026-06-05,SUP-111
+SKU-1013,Forklift Tire Set,B,Zone 4,732,73,29,PALLET,2026-06-23,SUP-120
+SKU-1014,RFID Tag Roll,C,Zone 7,1305,63,25,PALLET,2026-06-08,SUP-107
+SKU-1015,Void Fill Air Pillows,B,Zone 4,782,89,35,PALLET,2026-06-09,SUP-117
+SKU-1016,Heavy Duty Stretch Film,C,Zone 8,669,34,13,EA,2026-06-05,SUP-101
+SKU-1017,Warehouse Rack Beam,B,Zone 6,553,36,14,EA,2026-06-02,SUP-118
+SKU-1018,Hand Truck Dolly,B,Zone 5,440,187,74,CASE,2026-06-19,SUP-120
+SKU-1019,Safety Cone Set,A,Zone 3,547,55,22,EA,2026-06-08,SUP-117
+SKU-1020,Cardboard Divider Insert,B,Zone 5,1534,169,67,CASE,2026-06-03,SUP-118
+SKU-1021,Bubble Wrap Roll,B,Zone 4,454,55,22,PALLET,2026-06-16,SUP-102
+SKU-1022,Shipping Label Sheets,A,Zone 3,318,180,72,EA,2026-06-06,SUP-113
+SKU-1023,Wooden Pallet Standard,A,Zone 2,793,117,46,PALLET,2026-06-17,SUP-116
+SKU-1024,Plastic Pallet Reinforced,C,Zone 9,1767,22,8,PALLET,2026-06-08,SUP-103
+SKU-1025,Loading Dock Bumper,C,Zone 8,1542,88,35,PALLET,2026-06-21,SUP-103
