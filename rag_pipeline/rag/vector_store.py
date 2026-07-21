@@ -4,6 +4,7 @@ free) for storing and querying embedded chunks.
 """
 
 import chromadb
+from chromadb.config import Settings
 
 import config
 
@@ -13,7 +14,10 @@ class VectorStore:
         self.persist_dir = persist_dir or config.CHROMA_DIR
         self.collection_name = collection_name or config.COLLECTION_NAME
 
-        self.client = chromadb.PersistentClient(path=self.persist_dir)
+        self.client = chromadb.PersistentClient(
+            path=self.persist_dir,
+            settings=Settings(anonymized_telemetry=False),
+        )
         self.collection = self.client.get_or_create_collection(
             name=self.collection_name,
             metadata={"hnsw:space": "cosine"},
