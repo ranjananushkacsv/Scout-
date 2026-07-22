@@ -10,3 +10,8 @@ tqdm==4.67.1
 langchain-core==0.3.29
 langchain-ollama==0.2.2
 langgraph==0.2.62
+
+# API layer (Scout frontend backend)
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-dotenv==1.0.1

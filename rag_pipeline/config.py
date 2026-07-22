@@ -64,3 +64,13 @@ Rules you must always follow:
 5. Be concise and cite which document/section the information came from
    when possible.
 """
+
+# ---------------------------------------------------------------------------
+# Impact dashboard assumptions — how many minutes a manual lookup/escalation
+# would have taken a human, and what that time is worth. Tune these to your
+# own team's numbers; the Impact tab is queries_handled x these constants,
+# shown with the assumptions spelled out so it never reads as a made-up number.
+# ---------------------------------------------------------------------------
+MINUTES_SAVED_PER_LOOKUP = 4        # manual spreadsheet/system check Scout replaces
+MINUTES_SAVED_PER_ESCALATION = 10   # manual drafting + routing of an approval email
+HOURLY_LABOR_RATE_USD = 35          # loaded hourly cost of an ops coordinator

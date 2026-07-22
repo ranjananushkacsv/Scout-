@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+rag_pipeline/venv/
+rag_pipeline/storage/chroma/
+rag_pipeline/api/data/
+*.egg-info/
+
+# Env / secrets
+.env
+.env.local
+rag_pipeline/.env
+
+# Node / frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env.local
+
+# Misc
+.vscode/
+*.log
